@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 3</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Questões</th>
+                <th>Respostas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>b) &lt;p&gt;</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>c) &lt;h1&gt;</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>a) Linguagem de marcação</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>b) &lt;head&gt;</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>a) HyperText Markup Language.</td>
+            </tr>
+        </tbody>
+        
+    </table>
+</body>
+</html>
